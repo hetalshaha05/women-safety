@@ -1,2 +1,2 @@
-# women-safety
-An app which deals all with women safety and dedicated to india
+women-safety
+Your safety is our first priority.
